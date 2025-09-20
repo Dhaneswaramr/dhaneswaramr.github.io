@@ -1,0 +1,289 @@
+{
+    "personal_info": {
+        "short_name": "Dhaneswara",
+        "full_name": "Dhaneswara Mursito Rukmi",
+        "email": "dhaneswaramr9898@gmail.com",
+        "phone": "+62 897 3185 550",
+        "birth_date": "1998-08-18",
+        "address": "Graha Kuncara O-18 Kemiri, Sidoarjo, Jawa Timur, Indonesia",
+        "longitude": 112.7274304,
+        "latitude": -7.4386521
+    },
+    "title": [
+        "UI / UX Designer",
+        "Sistem Analyst",
+        "QC Testing"
+    ],
+    "about_me": "Halo, saya Rachmad Maulana, seorang web programmer fullstack dengan pengalaman lebih dari 5 tahun dalam membangun aplikasi berbasis web. Saya berfokus pada frontend maupun backend development, dengan bahasa pemrograman utama PHP dan JavaScript, serta framework seperti CodeIgniter, Laravel, SilverStripe, dan React JS. Untuk manajemen data, saya terbiasa menggunakan MySQL, PostgreSQL, dan SQL Server.\n\nSelama lebih dari 5 tahun berkarier, saya telah mengerjakan berbagai proyek berbasis web, mulai dari aplikasi pengiriman barang darat dan laut dengan fitur lelang yang mempermudah proses penawaran harga, sistem penjualan tiket kapal laut dengan integrasi pembayaran digital, hingga aplikasi ERP internal perusahaan yang membantu mengelola inventori, keuangan, dan laporan operasional secara lebih efisien.",
+    "what_im_doing": [
+        {
+            "title": "Data Analysis",
+            "description": "Update and maintain the internal company web application",
+            "icon": "FaChartLine"
+        },
+        {
+            "title": "UI/UX Design",
+            "description": "Update and maintain the internal company web application",
+            "icon": "FaObjectGroup"
+        },
+        {
+            "title": "QC Testing",
+            "description": "Update and maintain the internal company web application",
+            "icon": "FaGear"
+        }
+    ],
+    "social_media": [
+        {
+            "name": "instagram",
+            "link": "https://instagram.com/_dhaneswara",
+            "icon": "SiInstagram"
+        }
+    ],
+    "work_experience": [
+        {
+            "organization": "PT Indotank",
+            "role": "UI / UX Designer, Sistem Analyst, QC Testing",
+            "description": "",
+            "start_date": "2021-08-18",
+            "end_date": "Present"
+        }
+    ],
+    "education": [
+        {
+            "organization": "Universitas Brawijaya Malang",
+            "role": "Sarjana Komputer",
+            "description": "Sistem Informasi",
+            "start_date": "2017-09-01",
+            "end_date": "2021-06-30"
+        },
+        {
+            "organization": "SMA Negeri 3 Sidoarjo",
+            "role": "SMA",
+            "description": "IPA",
+            "start_date": "2014-09-01",
+            "end_date": "2017-06-30"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Wireframing & Prototyping",
+            "value": 80,
+            "category": "design"
+        },
+        {
+            "name": "Interaction Design",
+            "value": 70,
+            "category": "design"
+        },
+        {
+            "name": "Design Systems & Style Guides",
+            "value": 90,
+            "category": "design"
+        },
+        {
+            "name": "Design Systems & Style Guides",
+            "value": 90,
+            "category": "analysis"
+        },
+        {
+            "name": "Business Process Modeling",
+            "value": 90,
+            "category": "analysis"
+        },
+        {
+            "name": "Manual Testing",
+            "value": 90,
+            "category": "testing"
+        },
+        {
+            "name": "Automation Testing",
+            "value": 80,
+            "category": "testing"
+        },
+        {
+            "name": "Figma",
+            "value": 80,
+            "category": "tools"
+        },
+        {
+            "name": "Adobe XD",
+            "value": 90,
+            "category": "tools"
+        },
+        {
+            "name": "CorelDraw",
+            "value": 80,
+            "category": "tools"
+        },
+        {
+            "name": "Adobe Photoshop",
+            "value": 70,
+            "category": "tools"
+        }
+    ],
+    "portofolio": [
+        {
+            "name": "Movie Gue",
+            "description": "Aplikasi pencarian film internasional",
+            "category": "frontend",
+            "stack": [
+                "Javascript",
+                "React",
+                "Vite",
+                "Bootstrap"
+            ],
+            "link": "https://rachmadmaulanaj.github.io/moviegue-app/",
+            "thumbnail": "moviegue/thumbnail.gif",
+            "screenshots": [
+                "moviegue/ss1.png",
+                "moviegue/ss2.png",
+                "moviegue/ss3.png",
+                "moviegue/ss4.png",
+                "moviegue/ss5.png"
+            ]
+        },
+        {
+            "name": "Cuaca Sekitar",
+            "description": "Aplikasi peramalan cuaca",
+            "category": "frontend",
+            "stack": [
+                "Javascript",
+                "React",
+                "Vite",
+                "Bootstrap",
+                "Leaflet"
+            ],
+            "link": "https://rachmadmaulanaj.github.io/cuacasekitar-app/",
+            "thumbnail": "cuacasekitar/thumbnail.gif",
+            "screenshots": [
+                "cuacasekitar/ss1.png",
+                "cuacasekitar/ss2.png",
+                "cuacasekitar/ss3.png"
+            ]
+        },
+        {
+            "name": "Group Chat",
+            "description": "Aplikasi chat grup realtime",
+            "category": "frontend",
+            "stack": [
+                "Javascript",
+                "React",
+                "Vite",
+                "Bootstrap",
+                "Firebase"
+            ],
+            "link": "https://rachmadmaulanaj.github.io/groupchat-app/",
+            "thumbnail": "groupchat/thumbnail.gif",
+            "screenshots": [
+                "groupchat/ss1.png",
+                "groupchat/ss2.png",
+                "groupchat/ss3.png"
+            ]
+        },
+        {
+            "name": "KeuanganKu",
+            "description": "Aplikasi pencatat pemasukkan dan pengeluaran keuangan",
+            "category": "frontend",
+            "stack": [
+                "Javascript",
+                "React",
+                "Vite",
+                "Bootstrap",
+                "Supabase"
+            ],
+            "link": "https://rachmadmaulanaj.github.io/keuangankuv2-app/",
+            "thumbnail": "keuanganku/thumbnail.png",
+            "screenshots": [
+                "keuanganku/ss1.png",
+                "keuanganku/ss2.png",
+                "keuanganku/ss3.png",
+                "keuanganku/ss4.png",
+                "keuanganku/ss5.png"
+            ]
+        },
+        {
+            "name": "Percetakan Printing Area",
+            "description": "Website Company Profile Percetakan",
+            "category": "backend",
+            "stack": [
+                "Php",
+                "Silverstripe",
+                "Javascript",
+                "Jquery",
+                "Bootstrap",
+                "Mysql"
+            ],
+            "link": "",
+            "thumbnail": "printingarea/thumbnail.jpg",
+            "screenshots": [
+                "printingarea/ss1.jpg",
+                "printingarea/ss2.jpg",
+                "printingarea/ss3.jpg",
+                "printingarea/ss4.jpg"
+            ]
+        },
+        {
+            "name": "S I P K",
+            "description": "Sistem Informasi Pemberian Kredit",
+            "category": "backend",
+            "stack": [
+                "Php",
+                "Codeigniter",
+                "Javascript",
+                "Jquery",
+                "Bootstrap",
+                "Mysql"
+            ],
+            "link": "",
+            "thumbnail": "sipk/thumbnail.jpg",
+            "screenshots": [
+                "sipk/ss1.jpg",
+                "sipk/ss2.jpg",
+                "sipk/ss3.jpg",
+                "sipk/ss4.jpg"
+            ]
+        },
+        {
+            "name": "DEKA",
+            "description": "Sistem Informasi Penyimpanan / Stok",
+            "category": "backend",
+            "stack": [
+                "Php",
+                "Codeigniter",
+                "Javascript",
+                "Jquery",
+                "Bootstrap",
+                "Mysql"
+            ],
+            "link": "",
+            "thumbnail": "deka/thumbnail.jpg",
+            "screenshots": [
+                "deka/ss1.jpg",
+                "deka/ss2.jpg",
+                "deka/ss3.jpg",
+                "deka/ss4.jpg"
+            ]
+        },
+        {
+            "name": "Web Profil Desa",
+            "description": "Website Profil Desa Kesugihan",
+            "category": "backend",
+            "stack": [
+                "Php",
+                "Codeigniter",
+                "Javascript",
+                "Jquery",
+                "Bootstrap",
+                "Mysql"
+            ],
+            "link": "",
+            "thumbnail": "kesugihan/thumbnail.jpg",
+            "screenshots": [
+                "kesugihan/ss1.jpg",
+                "kesugihan/ss2.jpg",
+                "kesugihan/ss3.jpg",
+                "kesugihan/ss4.jpg"
+            ]
+        }
+    ]
+}
