@@ -11,25 +11,25 @@
     },
     "title": [
         "UI / UX Designer",
-        "Sistem Analyst",
-        "QC Testing"
+        "Software QA",
+        "System Analyst"
     ],
-    "about_me": "Halo, saya Rachmad Maulana, seorang web programmer fullstack dengan pengalaman lebih dari 5 tahun dalam membangun aplikasi berbasis web. Saya berfokus pada frontend maupun backend development, dengan bahasa pemrograman utama PHP dan JavaScript, serta framework seperti CodeIgniter, Laravel, SilverStripe, dan React JS. Untuk manajemen data, saya terbiasa menggunakan MySQL, PostgreSQL, dan SQL Server.\n\nSelama lebih dari 5 tahun berkarier, saya telah mengerjakan berbagai proyek berbasis web, mulai dari aplikasi pengiriman barang darat dan laut dengan fitur lelang yang mempermudah proses penawaran harga, sistem penjualan tiket kapal laut dengan integrasi pembayaran digital, hingga aplikasi ERP internal perusahaan yang membantu mengelola inventori, keuangan, dan laporan operasional secara lebih efisien.",
+    "about_me": "Halo saya Dhaneswara Mursito Rukmi, seorang profesional dibidang Development Software dengan pengalaman lebih dari 3 tahun. Keahlian saya sebagai UI/UX Designer, Software QA dan System Analyst. Dari pengalaman tersebut saya terbiasa merancang antarmuka dan pengalaman pengguna yang intuitif, serta mampu memastikan kualitas software melalui pengujian yang optimal (manual maupun otomatis). Selain itu dapat menganalisis kebutuhan bisnis untuk menghasilkan solusi sistem yang efektif. Dengan kombinasi keahlian yang dimiliki saya mampu mendukung terciptanya produk digital yang andal, fungsional, dan memberikan nilai maksimal bagi pengguna maupun bisnis.",
     "what_im_doing": [
         {
-            "title": "Data Analysis",
-            "description": "Update and maintain the internal company web application",
-            "icon": "FaChartLine"
-        },
-        {
-            "title": "UI/UX Design",
-            "description": "Update and maintain the internal company web application",
+            "title": "UI / UX Designer",
+            "description": "Merancang pengalaman digital yang sederhana, intuitif, menarik dan sesuai kebutuhan pengguna",
             "icon": "FaObjectGroup"
         },
         {
-            "title": "QC Testing",
-            "description": "Update and maintain the internal company web application",
+            "title": "Software QA",
+            "description": "Memastikan kualitas produk melalui pengujian menyeluruh, agar terbentuk software yang berjalan stabil dan aman",
             "icon": "FaGear"
+        },
+        {
+            "title": "System Analyst",
+            "description": "Menganalisis kebutuhan bisnis dan menerjemahkan menjadi solusi sistem yang praktis, efeketif dan mudah dijalankan",
+            "icon": "FaChartLine"
         }
     ],
     "social_media": [
@@ -41,8 +41,8 @@
     ],
     "work_experience": [
         {
-            "organization": "PT Indotank",
-            "role": "UI / UX Designer, Sistem Analyst, QC Testing",
+            "organization": "PT. Aplikasi Tepat Guna",
+            "role": "UI / UX Designer, Software QA, System Analyst",
             "description": "",
             "start_date": "2021-08-18",
             "end_date": "Present"
@@ -53,46 +53,41 @@
             "organization": "Universitas Brawijaya Malang",
             "role": "Sarjana Komputer",
             "description": "Sistem Informasi",
-            "start_date": "2017-09-01",
-            "end_date": "2021-06-30"
+            "start_date": "2017-08-15",
+            "end_date": "2021-04-30"
         },
         {
             "organization": "SMA Negeri 3 Sidoarjo",
             "role": "SMA",
             "description": "IPA",
-            "start_date": "2014-09-01",
-            "end_date": "2017-06-30"
+            "start_date": "2014-05-02",
+            "end_date": "2017-05-02"
         }
     ],
     "skills": [
         {
             "name": "Wireframing & Prototyping",
-            "value": 80,
+            "value": 85,
             "category": "design"
         },
         {
             "name": "Interaction Design",
-            "value": 70,
+            "value": 80,
             "category": "design"
         },
         {
             "name": "Design Systems & Style Guides",
             "value": 90,
             "category": "design"
-        },
-        {
-            "name": "Design Systems & Style Guides",
-            "value": 90,
-            "category": "analysis"
         },
         {
             "name": "Business Process Modeling",
-            "value": 90,
+            "value": 85,
             "category": "analysis"
         },
         {
             "name": "Manual Testing",
-            "value": 90,
+            "value": 85,
             "category": "testing"
         },
         {
@@ -102,7 +97,7 @@
         },
         {
             "name": "Figma",
-            "value": 80,
+            "value": 85,
             "category": "tools"
         },
         {
@@ -112,7 +107,7 @@
         },
         {
             "name": "CorelDraw",
-            "value": 80,
+            "value": 85,
             "category": "tools"
         },
         {
